@@ -1,0 +1,10 @@
+github.com/inconshreveable/mousetrap v1.1.0 h1:HkGXBUfrXYeJyDzvWDQTDmOTWPkQ6CwZW1BWKHzqEOk=
+github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpDvjUPPhkWamcoGpTNnwO4D8387WjJR3IfP2MrxjKk=
+github.com/spf13/cobra v1.8.1 h1:e5/VxOjjL6MPER++Og5L3vOaTRkCQtsXtuVdNUukmWs=
+github.com/spf13/cobra v1.8.1/go.mod h1:wHxEcIdOsEqNaOA/nZ1RJvhdS4H1S3wIAhwvPsPGBts=
+github.com/spf13/pflag v1.0.5 h1:iy+VfrWP1XZkxNWM3z9g453Dx8x4L7m5ZsTPgMTwhXU=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4czXVZOBLb6ubTeqytGO8IP8u8UGjNNBk=
+golang.org/x/sys v0.20.0 h1:qqcaqnPS5kCkOZsv+ob1o49hnpyvCOfmKrvBKjWVs+I=
+golang.org/x/sys v0.20.0/go.mod h1:h1NjVEczMJx8DGAPBFtcV3zyUXcoSUshDY0K000znwk=
+golang.org/x/term v0.21.0 h1:FcXlcjvrvDj29jf3KxnR9x9ExMNn3blsWwKz5v5JRP0=
+golang.org/x/term v0.21.0/go.mod h1:wqBK3VRVS8v3ri1czkiSUZYDheAVjUorqVfOAOfp8co=
